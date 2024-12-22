@@ -1,0 +1,12 @@
+commande pour compiler le code : g++ ./src/main.cpp -I./Random/include -L./Random/lib -lCLHEP-Random-2.1.0.0 -static -o tp5
+
+commande pour exécuter le code : ./tp5 args
+
+Qst 2 : ./tp5 2
+Qst 3 : ./tp5 3
+Qst 4 : ./tp5 4
+Qst 5 : ./tp5 5 "./status/status_sm_2-0"
+Qst 6.a : ./tp5 6 "./status/status_sm_2-0"
+Qst 6.b : ./tp5 7
+
+Bash file : ./script.sh
